@@ -7,7 +7,7 @@
     "network": "firstpromoter",
     "status": "active",
     "category": "all-in-one-marketing",
-    "notes": "Carried over from LuxeRetailStack \u2014 VERIFY with GHL whether the same fp_ref code can be used for promoting from luxeretailstack.com or if a separate registration is required."
+    "notes": "Carried over from LuxeRetailStack — VERIFY with GHL whether the same fp_ref code can be used for promoting from luxeretailstack.com or if a separate registration is required."
   },
   {
     "slug": "aweber",
@@ -26,7 +26,10 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Video & Content"
+    "category": "Video & Content",
+    "externalProgramId": "12258",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:15.860Z"
   },
   {
     "slug": "retouch4me",
@@ -35,7 +38,10 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Photo & Design"
+    "category": "Photo & Design",
+    "externalProgramId": "39694",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:15.860Z"
   },
   {
     "slug": "munch-studio",
@@ -44,7 +50,10 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Social Media"
+    "category": "Social Media",
+    "externalProgramId": "42530",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:15.860Z"
   },
   {
     "slug": "omnisend",
@@ -53,7 +62,10 @@
     "commission": "20% recurring",
     "network": "impact",
     "status": "active",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "externalProgramId": "21260",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:15.860Z"
   },
   {
     "slug": "melio",
@@ -62,7 +74,10 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Payments & Billing"
+    "category": "Payments & Billing",
+    "externalProgramId": "25463",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:15.860Z"
   },
   {
     "slug": "surveysparrow",
@@ -71,7 +86,10 @@
     "commission": "Impact affiliate",
     "network": "impact",
     "status": "active",
-    "category": "Customer Feedback"
+    "category": "Customer Feedback",
+    "externalProgramId": "48398",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:15.861Z"
   },
   {
     "slug": "thrivesparrow",
@@ -122,7 +140,7 @@
     "slug": "moosend",
     "name": "Moosend",
     "url": "https://trymoo.moosend.com/68v8v144fh7a",
-    "commission": "30%\u201340% recurring",
+    "commission": "30%–40% recurring",
     "network": "direct",
     "status": "active",
     "category": "Email Marketing"
@@ -150,7 +168,7 @@
     "name": "Printify",
     "url": "https://try.printify.com/t9f3mafait11",
     "network": "direct",
-    "commission": "\u2014",
+    "commission": "—",
     "status": "active",
     "category": "print-on-demand",
     "notes": "Added 2026-06-16 via bulk affiliate import."
@@ -163,27 +181,33 @@
     "commission": "referral",
     "status": "active",
     "category": "Document Automation",
-    "notes": "Cross-pollinated 2026-06-16 \u2014 partner active elsewhere in portfolio."
+    "notes": "Cross-pollinated 2026-06-16 — partner active elsewhere in portfolio."
   },
   {
     "slug": "ringplanet",
     "name": "RingPlanet",
     "url": "https://preferredlongdistance.pxf.io/yZj0Ay",
     "network": "impact",
-    "commission": "\u2014",
+    "commission": "—",
     "status": "active",
     "category": "voip-business-phone",
-    "notes": "Cross-pollinated 2026-06-16 \u2014 partner active elsewhere in portfolio."
+    "notes": "Cross-pollinated 2026-06-16 — partner active elsewhere in portfolio.",
+    "externalProgramId": "41090",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:15.860Z"
   },
   {
     "slug": "duda",
     "name": "Duda",
     "url": "https://duda.sjv.io/vDQBkN",
     "network": "impact",
-    "commission": "\u2014",
+    "commission": "—",
     "status": "active",
     "category": "website-builder",
-    "notes": "Cross-pollinated 2026-06-16 \u2014 partner active elsewhere in portfolio."
+    "notes": "Cross-pollinated 2026-06-16 — partner active elsewhere in portfolio.",
+    "externalProgramId": "13628",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T18:12:15.860Z"
   },
   {
     "slug": "munch",
@@ -192,7 +216,7 @@
     "commission": "Recurring Subscription",
     "network": "impact",
     "status": "active",
-    "category": "Social Media \u00b7 SMB",
+    "category": "Social Media · SMB",
     "externalProgramId": "42530",
     "applicationStatus": "approved",
     "approvedAt": "2026-06-29T20:00:00Z"
