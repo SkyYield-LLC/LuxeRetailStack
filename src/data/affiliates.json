@@ -141,9 +141,12 @@
     "name": "Moosend",
     "url": "https://trymoo.moosend.com/68v8v144fh7a",
     "commission": "30%–40% recurring",
-    "network": "direct",
+    "network": "partnerstack",
     "status": "active",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "externalProgramId": "comp_e864e089635d4933b4683fc3baa60da4",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T21:05:52.202Z"
   },
   {
     "slug": "invoice-ninja",
@@ -167,11 +170,14 @@
     "slug": "printify",
     "name": "Printify",
     "url": "https://try.printify.com/t9f3mafait11",
-    "network": "direct",
+    "network": "partnerstack",
     "commission": "—",
     "status": "active",
     "category": "print-on-demand",
-    "notes": "Added 2026-06-16 via bulk affiliate import."
+    "notes": "Added 2026-06-16 via bulk affiliate import.",
+    "externalProgramId": "co_Yp7c0eoi2je45S",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T21:05:52.202Z"
   },
   {
     "slug": "docparser",
