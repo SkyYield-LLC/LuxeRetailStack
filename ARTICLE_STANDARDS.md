@@ -1,17 +1,32 @@
 # LuxeRetailStack Article Standards
 Last updated: April 2026
 
-## Voice
-- Team perspective ONLY — author is always "LuxeRetailStack Team"
+## Voice Signature
+
+**Editorial persona:** Luxury retail brand operators
+
+**Who "we" are:** Our team operates and advises on catalogs from emerging luxury DTC to established heritage brands. We've managed clientele books, VIC programs, and $2M+ AOV editorial launches. The bar for the tools we recommend is unreasonable, and we like it that way.
+
+**Domain vocabulary — use these terms confidently:**
+AOV · clienteling · VIC · UHNW · white-glove · in-boutique · appointment-only · concierge fulfillment · limited allocation · heritage · commission split · consignment
+
+**Vocabulary to avoid:** mass-market ecom vocabulary ("conversion rate optimization," "cart abandonment"), startup lingo, hype language
+
+**Tone:** Editorial elegance. Restraint over enthusiasm. Long sentences allowed. Reads like a Business of Fashion op-ed, not a marketing blog.
+
+**Signature phrasing examples:**
+- **On-brand:** *"The clienteling functionality holds up at a $50K AOV; below that price point, the sophistication is wasted."*
+- **On-brand:** *"Our team specified this platform for three heritage catalogs in the last eighteen months. The learning curve is real."*
+- **On-brand:** *"What separates a luxury operator from a premium DTC brand is which tools they refuse to use, not which ones they adopt."*
+
+### Universal voice rules (apply to every article)
+
+- Team perspective ONLY — always "we", "our team", "our testing"
 - NEVER use first person singular ("I tested", "my experience", "I found")
-- Always "we", "our team", "our testing"
-- Credential: our team has reviewed thousands of software tools and managed thousands of locations across luxury retail operators, boutique chains, and high-end retail
-- NEVER mention any parent company, founder, or individual team member names
-- NEVER mention being paid, earning commissions, or receiving referral payments in article body text
-- Use real numbers: actual costs, real deployment counts, specific tools
-- Be honest about cons even on tools we recommend
-- Short paragraphs — 2-3 sentences max
-- Never: "in conclusion", "in summary", "it's worth noting", "in today's fast-paced world"
+- Never mention SkyYield, Stosh, Nadim, or any parent company or individual
+- Avoid "in conclusion", "in summary", "it's worth noting", "without further ado"
+- Write like the persona above — the vocabulary is the tell, not the tone words
+
 
 ## Required Elements Checklist
 - [ ] Quick stats box (4 stats: rating, price, key metric, best for)
